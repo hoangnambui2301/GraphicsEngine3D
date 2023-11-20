@@ -1,2 +1,2 @@
 # GraphicsEngine3D
-Inspired by OneLoneCoder https://github.com/OneLoneCoder
+Inspired and follow by OneLoneCoder https://github.com/OneLoneCoder
